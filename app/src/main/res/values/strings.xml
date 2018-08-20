@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SnapRecyclerview</string>
+    <string name="popular">Popular Movies</string>
+    <string name="top_rated">Top Rated Movies</string>
+</resources>
